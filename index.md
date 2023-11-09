@@ -210,6 +210,13 @@ special instructions.
 </p>
 {% endif %}
 
+<p id="registration">
+  <strong>Registration:</strong>
+  This workshop is a part of the Induction and Annual Development Event for the
+  <a href="https://iapetus2.ac.uk/">IAPETUS2 Doctoral Training Programme</a>
+  and is open only to its participants. Please contact IAPETUS2 DTP for further details.
+</p>
+
 {% comment %}
 CONTACT EMAIL ADDRESS
 
